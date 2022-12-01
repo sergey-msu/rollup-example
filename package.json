@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "rollup-minimal-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bundle": "rollup -c"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^3.5.1",
+    "@rollup/plugin-commonjs": "^23.0.3",
+    "@rollup/plugin-node-resolve": "^15.0.1"
+  }
+}
